@@ -57,6 +57,7 @@ const SignUp = () => {
 
           <button className="btnNormal mt-3 bg-blue-500 transition-all hover:bg-blue-600">Sign Up</button>
         </form>
+        <p className='pt-2'>Connect with me on <a className='underline' href="https://amanhussainkhan.com" target="_blank" rel="noopener noreferrer">amanhussainkhan.com</a> for demo.</p>
       </div>
     </>
   )
